@@ -278,7 +278,8 @@ Users can enter house details and receive an estimated house price directly thro
 
 The complete source code, trained model, notebook, screenshots, and application files are available on GitHub.
 
-👉 [**View GitHub Repository**](https://github.com/Lohith-CSE-AIML/SCT_ML_1)
+👉 [**View GitHub Repository**]
+(https://github.com/Lohith-CSE-AIML/SCT_ML_1)
 
 ---
 
